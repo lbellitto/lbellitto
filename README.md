@@ -1,6 +1,6 @@
 # Luna Bellitto
 
-Hello! My name is Luna, and I am a new graduate from the master's program in **Computational Social Sciences** at the University of California, San Diego, where I acquired skills in **machine learning**, **data analysis**, and **statistics**. 
+Hello! My name is Luna, and I am a new graduate from the master's program in **Computational Social Sciences** at the University of California, San Diego. Here, I learnt and applied skills in **machine learning**, **data analysis**, and **statistics**. 
 
 ---
 
@@ -13,11 +13,11 @@ Hello! My name is Luna, and I am a new graduate from the master's program in **C
 
 --- 
 # Skills 
-R
-Python 
-SQL
-GIS 
-Power BI 
+- R
+- Python 
+- SQL
+- GIS 
+- Power BI 
 
 --- 
 # Connect with me! 
