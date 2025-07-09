@@ -13,11 +13,7 @@ Hello! My name is Luna, and I am a new graduate from the master's program in **C
 
 --- 
 # Skills 
-- R
-- Python 
-- SQL
-- GIS 
-- Power BI 
+R, Python, SQL, GIS, Power BI 
 
 --- 
 # Connect with me! 
