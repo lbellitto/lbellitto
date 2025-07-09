@@ -4,7 +4,7 @@ Hello! My name is Luna, and I am a new graduate from the master's program in **C
 
 ---
 
-# Past Skill Application
+# Skills Application
 - Political Analysis
 - Business Forecasting
 - Psychology Experiments 
