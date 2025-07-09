@@ -1,4 +1,4 @@
-# Luna Bellitto
+# Hello! :smile:
 
 Hello! My name is Luna, and I am a new graduate from the master's program in **Computational Social Sciences** at the University of California, San Diego. Here, I learnt and applied skills in **machine learning**, **data analysis**, and **statistics**. 
 
